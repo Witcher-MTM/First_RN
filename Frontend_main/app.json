@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Frontend_main",
+    "slug": "rnfirst",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "dea91284-316a-466b-b739-61f510843f16"
+      }
+    },
+    "owner": "neural4"
+  },
+  "name": "Frontend_main"
+}
